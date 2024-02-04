@@ -7,5 +7,5 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 # Colab Link
 https://colab.research.google.com/drive/1s3TYPuWJPgo9Kcms0jOfd2yOjbkcEwxB?usp=sharing
 
-#Streamlit Link
+# Streamlit Link
 https://lite-penentuan-penyakit-jantung-denganml-n6z72hpc7wvbgz22zt95n.streamlit.app/
