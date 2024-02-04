@@ -5,7 +5,7 @@ import streamlit as st
 # loading the saved model 
 
 # loaded_model
-loaded_model = pickle.load(open('model/trained_model.pkl','rb'))
+loaded_model = pickle.load(open('/model/trained_model.pkl','rb'))
 
 # Membuat fungsi
 
