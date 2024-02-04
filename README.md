@@ -1,5 +1,5 @@
 # Lite-Penentuan-Penyakit-Jantung-DenganML
-Untuk Memenuhi Tugas Akhir Semester. Untuk bentuk yang beneran saya ingin riset akan di repo ke akun utama
+Untuk Memenuhi Tugas Akhir Semester. Untuk bentuk yang beneran saya ingin riset akan di repo ke akun utama (@elnoersan)
 
 # Dataset
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
