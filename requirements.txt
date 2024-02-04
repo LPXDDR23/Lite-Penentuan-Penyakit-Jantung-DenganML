@@ -1,0 +1,8 @@
+numpy
+streamlit
+seabornhttps://github.com/LPXDDR23/Lite-Penentuan-Penyakit-Jantung-DenganML/tree/main
+matplotlib
+plotly
+pandas
+joblib
+scikit-learn
